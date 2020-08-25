@@ -2,7 +2,7 @@
 
 This Machine Learning competition was organized by HackerEarth. In this competition the target was to predict breed category and Pet category of pet based on some given attributes.I have secured 7th Rank in this competition.
 
-Problem Statement-> A leading pet adoption agency is planning to create a virtual tour experience for their customers showcasing all animals that are available in their shelter. To enable this tour experience, you are required to build a Machine Learning model that determines type and breed of the animal based on its physical attributes and other factors.
+Problem Statement Link ->https://www.hackerearth.com/problem/machine-learning/pet-adoption-9-5838c75b/
 
 
 ### LeaderBoard Link -> https://www.hackerearth.com/challenges/competitive/hackerearth-machine-learning-challenge-pet-adoption/leaderboard/pet-adoption-9-5838c75b/
